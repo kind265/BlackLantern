@@ -1,0 +1,7 @@
+socket
+requests
+asyncio
+dnspython
+beautifulsoup4
+colorama
+rich
