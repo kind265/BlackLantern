@@ -97,7 +97,7 @@ Example:
 ## 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/BlackLantern.git
+git clone https://github.com/kind265/BlackLantern.git
 cd BlackLantern
 ```
 
@@ -224,28 +224,8 @@ async def run(target, http, kb, mode):
     pass
 ```
 
----
-
-# Roadmap
-
-Planned future improvements:
-
-* advanced vulnerability scanning
-* automated reporting engine
-* risk scoring system
-* plugin marketplace
-* distributed scanning
-
----
-
-# License
-
-MIT License
-
----
-
 # Author
 
-Created by **Clement Matapa**.
+Created by **Hopeson Chikuse**.
 
 Cybersecurity enthusiast building open security tools and research projects.
